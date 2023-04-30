@@ -1,7 +1,9 @@
 import sys
 import csv
 import os.path
-
+##############################################################################
+# This file contains 2 classes
+##############################################################################
 class File_utility:
     """A simple utility to help with read write and store data"""
     empty_file = True
