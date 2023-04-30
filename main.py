@@ -5,7 +5,9 @@ from ticketing import Ticketing, File_utility
 
 _file_utility = None
 _Ticketing = None
-
+############################################################################
+#  Option 1 Submit ticket
+############################################################################
 def option_submit_ticket():
 
     # Set a flag to indicate that polling is active.
